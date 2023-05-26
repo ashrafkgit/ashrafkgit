@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Ashraf Khan</h1>
 - 📫 How to reach me **ashraf.khn11@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
