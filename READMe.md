@@ -1,6 +1,7 @@
 ## <h1 align="center">Hi, I'm Ashraf Khan</h1>
 
-![stoepsorama](https://github.com/ashrafkgit/ashrafkgit/assets/134578702/941b882a-2950-4d08-9d71-c4175138d538)
+![Asistente](https://github.com/ashrafkgit/ashrafkgit/assets/134578702/76f5adc9-d8f3-4909-971c-2cd88d9ce1cf)
+
     
 - 📫 How to reach me ashraf.khn11@gmail.com
 
